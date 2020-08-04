@@ -8,5 +8,4 @@ Sounds like ML powered white hatting for S3 🤖
 
 ## Social Proof
 
-
-[https://twitter.com/andthensumm/status/1290785967121539079](link)
+[Twitter Post](https://twitter.com/andthensumm/status/1290785967121539079)
